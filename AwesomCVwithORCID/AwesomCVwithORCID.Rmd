@@ -1,9 +1,9 @@
 ---
-name: Tamara
-surname: Sternlieb
-position: "PhD"
-address: "Ciudad de Buenos Aires, Argentina"
-phone: +54911 4069 9574
+name: Antony
+surname: Ndolo
+position: "Ingr"
+address: "Trabzon, Türkiye"
+phone: +254 718 004 800
 profilepic: ProfilePic.jpeg
 email: "tamara.sternlieb@gmail.com"
 twitter: TamSternlieb
