@@ -5,12 +5,11 @@ position: "Ingr"
 address: "Trabzon, Türkiye"
 phone: +254 718 004 800
 profilepic: ProfilePic.jpeg
-email: "tamara.sternlieb@gmail.com"
+email: "394184@ogr.ktu.edu.tr"
 twitter: TamSternlieb
-linkedin: tamara-sternlieb-93727367
+#linkedin: tamara-sternlieb-93727367
 date: "`r format(Sys.time(), '%B %Y')`"
-aboutme: "Tamara is a scientist specialized in the study of pathogenic parasites, a bioinformatics and system biology enthusiast, eager to expand the toolbox for biotechnology research."
-output: vitae::awesomecv
+aboutme: "Ndolo is an engineer and a scientist specialized in the study of noise mitigation communicaiton system."
 ---
 
 ```{r setup, include=FALSE}
